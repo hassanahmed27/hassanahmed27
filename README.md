@@ -50,14 +50,7 @@ If you have suggestions, resources, or potential collaborations, feel free to co
 <!--<img align = "right" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 800px; height: 263px; margin: 0px; width: 351px;" alt="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that  can be used in Special Repository :trollface:" jsname="kn3ccd">-->
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassan-ahmed-siddiqui27/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:siddiquihassanahmed3@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/hassan-ahmed-siddiqui27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan-ahmed-siddiqui27/" height="30" width="40" /></a> <a href="mailto:siddiquihassanahmed3@gmail.com" target="_blank"><img align="center" src="https://icons8.com/icon/ho8QlOYvMuG3/gmail-logo" alt="Email" height="25" width="30" /></a>
 
 <!-- <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/contactabdulmoi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/contactabdulmoi1" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/u/hassan_ahmed0131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hassan_ahmed0131/" height="30" width="40" /></a>
